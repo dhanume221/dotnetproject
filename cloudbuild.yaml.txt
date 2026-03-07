@@ -32,3 +32,9 @@ substitutions:
 
 images:
   - 'asia-east1-docker.pkg.dev/gcloudprj223/dotnetproject/webapp:${SHORT_SHA}'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
+  # or, if you prefer:
+  # logging: NONE
+
