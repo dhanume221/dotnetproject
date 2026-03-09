@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\new github files\\.Net Projects\\WebAppProject\\WebApplication1\\git\\dotnetproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\new github files\\.net projects\\webappproject\\webapplication1\\git\\dotnetproject\\webapplication1\\models\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultdbContext.cs",
+              "DocumentMoniker": "C:\\new github files\\.Net Projects\\WebAppProject\\WebApplication1\\git\\dotnetproject\\WebApplication1\\Models\\DefaultdbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\DefaultdbContext.cs",
+              "ToolTip": "C:\\new github files\\.Net Projects\\WebAppProject\\WebApplication1\\git\\dotnetproject\\WebApplication1\\Models\\DefaultdbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\DefaultdbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:07:47.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
