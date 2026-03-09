@@ -37,7 +37,7 @@ builder.Services.AddScoped<EmailService>();
 builder.Services.AddScoped<RegisterApi>();
 builder.Services.AddStackExchangeRedisCache(options =>
 {
-    options.Configuration = builder.Configuration.GetConnectionString("Redis");
+    options.Configuration = Environment.GetEnvironmentVariable("Redis");
     options.InstanceName = "Web";
 });
 builder.Services.AddAuthorization();
